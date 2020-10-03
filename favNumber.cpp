@@ -11,4 +11,6 @@ int main() {
 	std::cout << "Wow " << favoriteNumber << " is not my favorite number,"
 	" my favorite number is " << favoriteNumber + 3 << std::endl;
 
+	return 0;
+
 }
