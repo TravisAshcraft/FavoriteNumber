@@ -1,7 +1,7 @@
 /***********************
 *Author: Travis Ashcraft
 *
-*Basic Program 
+*Favorite Number 
 *
 ************************/
 
