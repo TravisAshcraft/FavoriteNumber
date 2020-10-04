@@ -6,18 +6,19 @@
 ************************/
 
 #include <iostream>
-
+using namespace std;
 
 int main() {
 
 	int favoriteNumber;
 
-	std::cout << "What is your favorite number?" << std::endl;
-	std::cin >> favoriteNumber;
+	cout << "What is your favorite number?" << endl;
+	cin >> favoriteNumber;
 
-	std::cout << "Wow " << favoriteNumber << " is not my favorite number,"
-	" my favorite number is " << favoriteNumber + 3 << std::endl;
+	cout << "Wow " << favoriteNumber << " is not my favorite number,"
+	" my favorite number is " << favoriteNumber + 3 << endl;
 
 	return 0;
 
 }
+
